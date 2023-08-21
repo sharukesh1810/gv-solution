@@ -34,7 +34,7 @@ body{
 
 }
 .head{
-    font-size: 23px;
+    font-size:28px;
     font-weight: bolder;
     color:rgba(31, 172, 31, 0.932);
     font-family: 'Poppins', sans-serif;
@@ -44,6 +44,8 @@ body{
     font-weight: bold;
     color: black;
     font-family: 'Poppins', sans-serif;
+    font-size:20px
+
 }
 .bar{
     width:17% ;
@@ -54,7 +56,7 @@ body{
 }
 p{
     color: gray;
-    font-size: 19px;
+    font-size: 15px;
     padding-left: 15px;
      padding-right: 15px;
      margin-top: em;
@@ -101,13 +103,14 @@ p{
 }
 .workflow p{
     color :gray;
-    font-size: 18px;
+    font-size: 14px;
     text-align: left;
     font-weight: 400;
 }
 .workflow h2{
     font-weight: 500;
     text-align: left;
+    font-size:20px;
 }
 .flow{
     display: flex;
