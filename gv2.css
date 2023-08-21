@@ -1,0 +1,411 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+.navbar navbar-default{
+    background-color: white !important;
+    position: sticky;
+    top:0;
+}
+.navbar-header .logo{
+    transform: translateY(.3em);
+}
+
+#enquriy{
+    transform: translateY(.7em);
+}
+
+
+.swiper{
+    margin-top: -1.3em;
+    width: 100%;
+    }
+.swiper img{
+    width: 100%;
+}
+
+.content1{
+    display: block;
+    justify-content: center;
+     text-align: center;
+     padding:1em;
+
+}
+.head{
+    font-size: 23px;
+    font-weight: bolder;
+    color:rgba(31, 172, 31, 0.932);
+    font-family: 'Poppins', sans-serif;
+}
+.sub-title{
+    margin-top: -1.3em;
+    font-weight: bold;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+.bar{
+    width:17% ;
+    height: 7px;
+    background:greenyellow ;
+    margin-left: 40%;
+    margin-top: .5em;
+}
+p{
+    color: gray;
+    font-size: 19px;
+    padding-left: 15px;
+     padding-right: 15px;
+     margin-top: em;
+     font-weight: 400;
+     font-family: 'Poppins', sans-serif;
+}
+
+.slide2{
+    background-color:white;
+    display: flex;
+    margin-left: .5em;
+    justify-content: space-between;
+    width: 50%   ;
+}
+.slide2 img{
+    width: 50%;
+    height: 50%;
+}
+
+
+.content2{
+    display: block;
+    justify-content: center;
+     text-align: center;
+     background-color:#111111ed;
+     color:white;
+     padding-top: 1em;
+     padding-bottom: .5em;
+}
+.content2 .sub-title{
+    color: white;
+}
+.workimg .img-responsive{
+    width: 80%;
+    height:100%;
+    
+    margin-top: -.7em;
+}
+.table{
+   border: none;
+}
+.workflow{
+    width: 100%;
+}
+.workflow p{
+    color :gray;
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+}
+.workflow h2{
+    font-weight: 500;
+    text-align: left;
+}
+.flow{
+    display: flex;
+}
+
+
+.content3{
+    display: block;
+    justify-content: center;
+     text-align: center;
+}
+.content3 .swiper{
+   padding-top:3em;
+   width: 80%;
+   margin-top: 1em;
+}
+
+.content4{
+    display: block;
+    justify-content: center;
+     text-align: center;
+     background-color:#191e32fe;
+     color:white;
+     padding-top: 1em;
+     padding-bottom: .5em;
+     width: 100%;
+}
+.content4 .sub-title{
+    color: white;
+}s
+.content4 img{ 
+    width:1px;
+    padding:2em;;
+ }
+
+.content5{
+    display: block;
+    justify-content: center;
+     text-align: center;
+}
+
+.content6{
+    display: block;
+    justify-content: center;
+     text-align: center;
+     background-color:black;
+     color:white;
+     padding-top: 1em;
+     padding-bottom: .5em;
+}
+table{
+    display: flex;
+}
+ li a{
+    text-decoration: none;
+    color:white;
+}
+ul{
+    list-style-type:none;
+    
+}
+li{
+    padding: 3px;
+    text-align: left;
+    margin-left: 0.5em;
+} 
+ul h4{
+    text-align: left;
+    font-weight: bold;
+    margin-left: -.5em;
+   
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -.5em;
+}
+#icon{
+    width: 30%;
+}
+.footer{
+    text-align: left;
+}
+.contact{
+    margin-left: .5em;
+}
+h5{
+    text-align: left;
+    padding-left: 1.7em;
+    font-size: 20px;
+    margin-top: -.5em;
+    
+}
+.address{
+    margin-top: 1em;
+    margin-left: em;
+    width: 70%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: .5em;
+}
+i{
+    margin-right: 1.5em;
+    width:1%; 
+    height:2%;
+    
+}
+.content6 h5 span svg{
+    padding-right: .5em;
+}
+
+.add{
+    display: flex;
+    align-items: left;
+}
+@media screen and (min-width:800px){
+*{
+    font-family: 'Poppins', sans-serif;
+}
+    .content1{
+        display: block;
+        justify-content: center;
+         text-align: center;
+         justify-content: space-betweenS;
+         padding:2em;
+    
+    }
+    .head{
+        position: relative;
+        top:50%;
+        left: 10px;
+        font-size:52em!important;
+        font-weight: 900;
+        color:rgb(72, 168, 47);
+    }
+    .sub-title{
+        margin-top: -1.3em;
+        font-weight: bolder;
+        color: black;
+        position: relative;
+        top:50%;
+        left: 30px;
+    }
+    .bar{
+        width:10% ;
+        height: 7px;
+        margin-top: .5em;
+        background:greenyellow;
+        position: relative;
+        top:50%;
+        left: 80px;
+        
+    }
+    p{
+        color: gray;
+        font-size: 24px;
+        padding: 35px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+         margin-top: em;
+         font-weight: 400;
+    }
+
+    .content1 .swiper{
+        margin-top: -1.3em;
+        width: 100%;
+        }
+    
+  .content3 .swiper{
+    width: 50%;
+    padding-top: .5em;
+  }
+  .slide2{
+    width: 100%;
+   
+  }
+  .slide2 img{
+    width: 80%;
+    height: 50%;
+}
+
+.workimg img{
+ 
+position: relative;
+left: 350px;
+top:20px;
+height:120%;
+width: 200%;
+padding-bottom: 1em;
+
+}
+.workflow {
+    margin-top: 3em;
+    display: block;
+    margin-left: 30%;
+    padding-bottom: 2em;
+    height: 120%;
+}
+.content4 img{
+    position: relative;
+    top:50%;
+    left: 28%;
+    padding-top:1em;
+    padding-bottom:1em;
+
+}
+
+.content6{
+    display: block;
+    justify-content: center;
+     text-align: center;
+     background-color:black;
+     color:white;
+     padding: 6em;
+     padding-top: 1.5em; 
+     padding-bottom:0em;
+}
+.content6 img{
+    width:35%;
+}
+#icon {
+    width:12%;
+    transform: translateX(-35em);
+   
+}
+.ser{
+    margin-top: -15em;
+    transform: translateX(-9em);
+}
+ li a{
+    text-decoration: none;
+    color:white;
+}
+ul{
+    list-style-type:none;
+    
+}
+li{
+    padding: 3px;
+    text-align: left;
+    margin-left: 0.5em;
+    font-size: 18px;
+} 
+ul h4{
+    text-align: left;
+    font-weight: bold;
+    margin-left: -.5em;
+    font-size: 29px;
+   
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -.5em;
+}
+
+.footer{
+    text-align: left;
+}
+h5{
+    text-align: left;
+    padding-left: 1.7em;
+    font-size: 20px;
+    margin-top: -.5em;
+    
+}
+.address{
+    margin-top: 1em;
+    margin-left: em;
+    width: 25%;
+    font-size: 20x;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: .5em;
+    font-size: 22px;
+}
+i{
+    margin-right: 1.5em;
+    width:1%; 
+    height:2%;
+    
+}
+.content6 h5 span svg{
+    padding-right: .5em;
+}
+.contact{
+
+    position: relative;
+    left:65%;
+    top: -11em;
+}
+
+
+
+}
