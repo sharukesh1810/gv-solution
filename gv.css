@@ -33,6 +33,10 @@ body{
      padding:1em;
 
 }
+.content1 h4{
+    margin-top:0.3em;
+    margin-left:0.7em;
+}
 .head{
     font-size:28px;
     font-weight: bolder;
