@@ -249,7 +249,7 @@ i{
         position: relative;
         top:50%;
         left: 10px;
-        font-size:52em!important;
+        font-size:28px;
         font-weight: 900;
         color:rgb(72, 168, 47);
     }
@@ -260,6 +260,8 @@ i{
         position: relative;
         top:50%;
         left: 30px;
+        font-size:32px;
+
     }
     .bar{
         width:10% ;
@@ -273,7 +275,7 @@ i{
     }
     p{
         color: gray;
-        font-size: 24px;
+        font-size: 20px;
         padding: 35px;
         padding-top: 3px;
         padding-bottom: 3px;
